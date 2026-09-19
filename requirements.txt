@@ -1,0 +1,10 @@
+pydicom
+imageio
+scipy
+numpy
+torch
+grad-cam
+reportlab
+fastapi
+uvicorn
+wandb
